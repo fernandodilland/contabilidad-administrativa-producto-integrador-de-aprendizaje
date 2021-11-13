@@ -13,10 +13,10 @@ Repositorio con código generado para el PÍA.
 Requisitos previos:
 - Instalado Python (3.10.0 o superior) en Windows, Linux/UNIX ó macOS ([descarga](https://www.python.org/downloads/)).
 - Instalado Thonny, Visual Studio Code, cualquier IDLE de Python o editor de código.
-- Descargar repositorio y/o archivo Evidencia3.py.
+- Descargar repositorio y/o archivoPIA-PRESUPUESTO MAESTRO.py.
 
 Procedimiento:
-- Abrir en el IDLE o editor de código el archivo Evidencia3.py.
+- Abrir en el IDLE o editor de código el archivo PIA-PRESUPUESTO MAESTRO.py.
 - Ejecutar el código intepretado.
 
 ## Instrucciones de uso
