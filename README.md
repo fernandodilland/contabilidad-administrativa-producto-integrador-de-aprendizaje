@@ -20,7 +20,7 @@ Procedimiento:
 - Ejecutar el código intepretado.
 
 ## Instrucciones de uso
-- Una vez ejecutado el código, elegir una opción del menú (1, 2 ó 3) escribiendo sobre la consola la opción y presionando "enter".
+- Una vez ejecutado el código, ingrese los datos.
 
 ## Licencia
 
