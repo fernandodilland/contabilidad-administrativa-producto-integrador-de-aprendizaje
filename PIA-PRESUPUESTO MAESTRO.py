@@ -1083,7 +1083,7 @@ while True:
                 ["Capital Contribuido","",1500000,""],
                 ["Capital Ganado","",362000,""],
                 ["Utilidad del Ejercicio","",7907229,""],
-                ["Total de Capital Contable","","",9769229,
+                ["Total de Capital Contable","",9769229,""],
                 ["","","",""],
                 ["SUMA DE PASIVO Y CAPITAL","","",17524284]]
         column_labels = ["", "1er. Semestre", "2do. Semestre", "Total"+AñoAct]
@@ -1094,6 +1094,6 @@ while True:
         table.scale(0.8, 0.9)
         #plt.title("8. Presupuesto de Gastos Indirectos de Fabricación")
         plt.show()
-        
+        plt.show()
     if PrePF4 == 2:
         break
